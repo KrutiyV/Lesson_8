@@ -18,7 +18,7 @@ namespace HomeWork
                 "Katty Moor 38047627853"
             };
 
-            int str1;
+            int str1;//the variable name should be more meaningful
             List<string> str2 = new List<string>();
             Console.WriteLine("Enter name or phone number to search:");
 
@@ -49,3 +49,4 @@ namespace HomeWork
         }
     }
 }
+//checked
